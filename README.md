@@ -8,7 +8,8 @@ Es este apartado encontrara todos los archivos para poder correr el codigo y el 
 
 Interfaz del dispositivo 
 
-![image](https://user-images.githubusercontent.com/84167751/201449906-1267c769-f98b-430a-b61a-138c3531a7f8.png)
+![image](https://user-images.githubusercontent.com/84167751/201450082-9237deae-e13c-4caa-9ab0-20c4d208591c.png)
+
 
 Empieza el programa
 ![image](https://user-images.githubusercontent.com/84167751/201449910-dc83ccf8-0fc4-4959-a700-36afc95d694c.png)
