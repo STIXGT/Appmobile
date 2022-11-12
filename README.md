@@ -8,15 +8,24 @@ Es este apartado encontrara todos los archivos para poder correr el codigo y el 
 
 Interfaz del dispositivo 
 
+
 ![image](https://user-images.githubusercontent.com/84167751/201450082-9237deae-e13c-4caa-9ab0-20c4d208591c.png)
 
 
 Empieza el programa
+
+
 ![image](https://user-images.githubusercontent.com/84167751/201449910-dc83ccf8-0fc4-4959-a700-36afc95d694c.png)
+
 
 Ingrese un texto
 
+
+
 ![image](https://user-images.githubusercontent.com/84167751/201449922-ee9fad25-a7da-4c2e-ab2a-7187dcc0be42.png)
 
+
 Finaliza y se genera su texto
+
+
 ![image](https://user-images.githubusercontent.com/84167751/201449924-56514a65-a9a7-4a9a-bc0e-522de506abbb.png)
