@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APP_p</string>
+    <string name="textview">TextView</string>
+    <string name="print_your_text">Print Your Text</string>
+</resources>
